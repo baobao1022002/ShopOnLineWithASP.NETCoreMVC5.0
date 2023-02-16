@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DiChoSaiGon",
+    "\\DiChoSaiGon\\Areas",
+    "\\DiChoSaiGon\\Areas\\Admin",
+    "\\DiChoSaiGon\\Areas\\Admin\\Views",
+    "\\DiChoSaiGon\\Areas\\Admin\\Views\\AdminProducts",
+    "\\DiChoSaiGon\\Controllers",
+    "\\DiChoSaiGon\\Views",
+    "\\DiChoSaiGon\\Views\\Blog",
+    "\\DiChoSaiGon\\Views\\Home",
+    "\\DiChoSaiGon\\Views\\Product"
+  ],
+  "SelectedNode": "\\DiChoSaiGon\\Views\\Product\\Details.cshtml",
+  "PreviewInSolutionExplorer": false
+}
